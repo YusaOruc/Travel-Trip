@@ -1,0 +1,182 @@
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\TravelTripProje.dll.config
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\TravelTripProje.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\TravelTripProje.pdb
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csc.exe
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csc.exe.config
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csc.rsp
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csi.exe
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csi.exe.config
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\csi.rsp
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.AppContext.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Console.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Pipes.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Claims.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\vbc.exe
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\vbc.exe.config
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\vbc.rsp
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Helpers.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Mvc.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Razor.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\WebGrease.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Helpers.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Mvc.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Optimization.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.Razor.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.Razor.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CopyComplete
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.pdb
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\EntityFramework.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\EntityFramework.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\PagedList.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\PagedList.Mvc.dll
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\PagedList.xml
+C:\Users\user\source\repos\TravelTripProje\TravelTripProje\bin\PagedList.Mvc.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\TravelTripProje.dll.config
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\TravelTripProje.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\TravelTripProje.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csc.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csc.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csc.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csi.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csi.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\csi.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.AppContext.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Collections.Immutable.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Console.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Compression.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.FileSystem.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.IO.Pipes.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.AccessControl.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Claims.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Security.Principal.Windows.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.ValueTuple.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XPath.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\vbc.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\vbc.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\vbc.rsp
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\VBCSCompiler.exe
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\roslyn\VBCSCompiler.exe.config
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Antlr3.Runtime.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\EntityFramework.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Microsoft.Web.Infrastructure.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Newtonsoft.Json.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\PagedList.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\PagedList.Mvc.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Helpers.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Mvc.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Optimization.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Razor.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Deployment.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Razor.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\WebGrease.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\EntityFramework.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\EntityFramework.SqlServer.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\PagedList.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\PagedList.Mvc.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Helpers.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Mvc.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Optimization.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.Razor.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Deployment.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\System.Web.WebPages.Razor.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Newtonsoft.Json.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Antlr3.Runtime.pdb
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.Helpers.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.Mvc.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.Optimization.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.Razor.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.Deployment.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\bin\tr\System.Web.WebPages.Razor.resources.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.AssemblyReference.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CoreCompileInputs.cache
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.csproj.CopyComplete
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.dll
+D:\yusa\OKUL\KOD\.Net\My Projects\TravelTrip\Kod\TravelTripProje\TravelTripProje\obj\Debug\TravelTripProje.pdb
